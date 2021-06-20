@@ -1,2 +1,1 @@
-# Newtons-Cradle
-Have Fun!!
+# NC27
